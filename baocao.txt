@@ -1,0 +1,7 @@
+=== BAO CAO TONG KET ===
+- Tong thoi gian hoat dong: 24 gio
+- Tong nang luong tieu thu: 61885.00 W
+- So lan chuyen che do: 3
+- Thiet bi tieu thu nhieu dien nhat: WaterHeater (15600.00 W)
+- Tong so lan canh bao: 1
+========================

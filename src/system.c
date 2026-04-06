@@ -90,11 +90,11 @@ void control_devices(Device devices[], int count, System *sys) {
     }
 
     if (old_mode != sys->mode) {
-        logEventF("WARNING", "Che do cua System thay doi: %d -> %d", old_mode, sys->mode);
+        logEventF("WARNING", "Dung luong pin %.1f%% -> Che do System thay doi: %d -> %d", battery_percent, old_mode, sys->mode);
         sys->mode_change_count++;
         
         if (sys->mode == MODE_CRITICAL) {
-            logEventF("CRITICAL", "Muc pin nguy hiem!");
+            logEventF("CRITICAL", "Muc pin nguy hiem, chi con %.1f%%!", battery_percent);
         }
     }
 
@@ -105,19 +105,19 @@ void control_devices(Device devices[], int count, System *sys) {
         if (sys->mode == MODE_MEDIUM) {
             if (devices[i].priority == PRIORITY_OPTIONAL && devices[i].state == DEVICE_ON) {
                 devices[i].state = DEVICE_OFF;
-                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin", devices[i].name);
+                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin (%.1f%%)", devices[i].name, battery_percent);
             }
         }
         else if (sys->mode == MODE_LOW) {
             if (devices[i].priority >= PRIORITY_NORMAL && devices[i].state == DEVICE_ON) {
                 devices[i].state = DEVICE_OFF;
-                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin", devices[i].name);
+                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin (%.1f%%)", devices[i].name, battery_percent);
             }
         }
         else if (sys->mode == MODE_CRITICAL) {
             if (devices[i].priority != PRIORITY_ESSENTIAL && devices[i].state == DEVICE_ON) {
                 devices[i].state = DEVICE_OFF;
-                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin", devices[i].name);
+                logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do an toan pin (%.1f%%)", devices[i].name, battery_percent);
             }
         }
     }
@@ -128,7 +128,7 @@ void control_devices(Device devices[], int count, System *sys) {
     if (total > (sys->maxPower)) {
 
         sys->warningCount++;
-        logEventF("WARNING", "Vuot dung luong MaxPower. Canh bao tang len %d", sys->warningCount);
+        logEventF("WARNING", "Vuot muc dien (%.1fW > %.1fW). Canh bao tang len %d", total, sys->maxPower, sys->warningCount);
 
         // tắt dần từ priority thấp nhất đến khi dưới ngưỡng
         int done = 0;
@@ -137,7 +137,7 @@ void control_devices(Device devices[], int count, System *sys) {
             for (int i = 0; i < count; i++) {
                 if (devices[i].priority == p && devices[i].state == DEVICE_ON) {
                     devices[i].state = DEVICE_OFF;
-                    logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do qua tai", devices[i].name);
+                    logEventF("INFO", "System: Tat ep buoc thiet bi [%s] do qua tai (%.1fW)", devices[i].name, total);
                     total -= devices[i].power;
 
                     if (total <= sys->maxPower) {
