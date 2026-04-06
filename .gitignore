@@ -1,0 +1,7 @@
+# Bỏ qua các file thực thi đã biên dịch
+*.exe
+*.out
+*.o
+
+# Bỏ qua tệp nhật ký sinh tự động
+log.txt

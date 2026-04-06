@@ -1,0 +1,25 @@
+24
+Fridge 250 1
+Router 10 1
+SecurityCamera 15 1
+SmokeDetector 5 1
+EmergencyLight 10 1
+AC 1200 2
+AC 1200 2
+WaterHeater 1300 2
+VentilationFan 100 2
+CeilingLight 50 2
+CeilingLight 50 3
+CorridorLight 30 3
+BathroomLight 30 3
+AirPurifier 80 3
+ExhaustFan 120 3
+WallLight 25 3
+WallLight 25 4
+DecorLight 30 4
+DecorLight 30 4
+GardenLight 20 4
+GardenLight 20 4
+WaterPump 500 4
+VentFan_Small 60 4
+HallLight 25 4

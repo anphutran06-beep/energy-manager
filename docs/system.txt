@@ -1,0 +1,2 @@
+battery=32000
+max_power=5000

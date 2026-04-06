@@ -1,40 +1,152 @@
-[16:01:05] [INFO] Dang sac pin
-[16:01:05] [INFO] Dang sac pin
-[16:01:05] [INFO] Dang sac pin
-[16:01:05] [INFO] Ket thuc mo phong
-[16:07:36] [INFO] Dang sac pin
-[16:07:36] [INFO] Dang sac pin
-[16:07:36] [INFO] Dang sac pin
-[16:07:36] [INFO] Ket thuc mo phong
-[16:09:16] [INFO] Dang sac pin
-[16:09:16] [INFO] Dang sac pin
-[16:09:16] [INFO] Dang sac pin
-[16:09:16] [INFO] Ket thuc mo phong
-[20:02:21] [INFO] Dang sac pin
-[20:02:21] [INFO] Dang sac pin
-[20:02:21] [INFO] Dang sac pin
-[20:02:21] [INFO] Ket thuc mo phong
-[20:07:00] [INFO] Dang sac pin
-[20:07:00] [INFO] Dang sac pin
-[20:07:00] [INFO] Dang sac pin
-[20:07:00] [INFO] Ket thuc mo phong
-[20:16:09] [INFO] Dang sac pin
-[20:16:09] [INFO] Dang sac pin
-[20:16:09] [INFO] Dang sac pin
-[20:16:09] [INFO] Ket thuc mo phong
-[20:16:58] [INFO] Dang sac pin
-[20:16:58] [INFO] Dang sac pin
-[20:16:58] [INFO] Dang sac pin
-[20:16:58] [INFO] Ket thuc mo phong
-[20:19:11] [INFO] Dang sac pin
-[20:19:11] [INFO] Dang sac pin
-[20:19:11] [INFO] Dang sac pin
-[20:19:11] [INFO] Ket thuc mo phong
-[20:22:59] [INFO] Dang sac pin
-[20:22:59] [INFO] Dang sac pin
-[20:22:59] [INFO] Dang sac pin
-[20:22:59] [INFO] Ket thuc mo phong
-[20:37:48] [INFO] Dang sac pin
-[20:37:48] [INFO] Dang sac pin
-[20:37:48] [INFO] Dang sac pin
-[20:37:48] [INFO] Ket thuc mo phong
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] tat
+[08:55:47] [WARNING] Vuot dung luong MaxPower. Canh bao tang len 1
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do qua tai
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do qua tai
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do qua tai
+[08:55:47] [INFO] User: Thiet bi [AC] tat
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] bat
+[08:55:47] [INFO] User: Thiet bi [AC] tat
+[08:55:47] [INFO] User: Thiet bi [CorridorLight] tat
+[08:55:47] [INFO] User: Thiet bi [AC] bat
+[08:55:47] [INFO] User: Thiet bi [AC] bat
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] tat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] tat
+[08:55:47] [INFO] User: Thiet bi [VentFan_Small] tat
+[08:55:47] [INFO] User: Thiet bi [HallLight] tat
+[08:55:47] [INFO] User: Thiet bi [WaterHeater] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] tat
+[08:55:47] [INFO] User: Thiet bi [WaterPump] tat
+[08:55:47] [INFO] User: Thiet bi [HallLight] bat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] tat
+[08:55:47] [INFO] User: Thiet bi [CorridorLight] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 0 -> 1
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [HallLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] bat
+[08:55:47] [INFO] User: Thiet bi [ExhaustFan] tat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] User: Thiet bi [VentFan_Small] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [VentFan_Small] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [AC] tat
+[08:55:47] [INFO] User: Thiet bi [WaterHeater] bat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] tat
+[08:55:47] [INFO] User: Thiet bi [HallLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [HallLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [AC] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] tat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] bat
+[08:55:47] [INFO] User: Thiet bi [WaterPump] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 1 -> 2
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CorridorLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [BathroomLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [AirPurifier] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WaterPump] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [AC] bat
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [AirPurifier] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] bat
+[08:55:47] [INFO] User: Thiet bi [DecorLight] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 2 -> 1
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [DecorLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [AC] bat
+[08:55:47] [INFO] User: Thiet bi [AC] tat
+[08:55:47] [INFO] User: Thiet bi [WaterHeater] tat
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] bat
+[08:55:47] [INFO] User: Thiet bi [ExhaustFan] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 1 -> 2
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CeilingLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [BathroomLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [AirPurifier] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [ExhaustFan] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] bat
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [BathroomLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [WaterHeater] bat
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] tat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [ExhaustFan] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [ExhaustFan] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [WallLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] User: Thiet bi [VentFan_Small] bat
+[08:55:47] [INFO] User: Thiet bi [HallLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CeilingLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WallLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [VentFan_Small] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [HallLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] User: Thiet bi [VentFan_Small] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [VentFan_Small] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 2 -> 3
+[08:55:47] [CRITICAL] Muc pin nguy hiem!
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [AC] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [WaterHeater] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CeilingLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [CorridorLight] bat
+[08:55:47] [INFO] User: Thiet bi [HallLight] bat
+[08:55:47] [WARNING] Che do cua System thay doi: 3 -> 2
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CorridorLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [HallLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [VentilationFan] bat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] bat
+[08:55:47] [INFO] User: Thiet bi [ExhaustFan] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [BathroomLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [ExhaustFan] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin
+[08:55:47] [INFO] User: Thiet bi [AC] bat
+[08:55:47] [INFO] User: Thiet bi [CeilingLight] bat
+[08:55:47] [INFO] User: Thiet bi [BathroomLight] bat
+[08:55:47] [INFO] User: Thiet bi [AirPurifier] bat
+[08:55:47] [INFO] User: Thiet bi [GardenLight] bat
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [CeilingLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [BathroomLight] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [AirPurifier] do an toan pin
+[08:55:47] [INFO] System: Tat ep buoc thiet bi [GardenLight] do an toan pin

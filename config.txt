@@ -1,6 +1,0 @@
-5
-TV 100 3
-AC 1500 1
-Light 20 5
-Fan 75 4
-Fridge 200 2
